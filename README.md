@@ -7,98 +7,6 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-<title>Dailymotion-Video-Player</title>
-
-<style>
-*{margin: 0;
-padding: 0;
-box-sizing: border-box;}
-body {background: #eeeeee;
-font-family: Rubik;
-text-align: center;
-font-size: 100%;}
-
-.github {position: relative;
-color: #1565b0;
-margin: 10px 15px 0 0;
-float: right;}
-
-.credits {position: absolute;
-top: 0;
-left: 0;
-display: flex;
-margin: 15px;}
-
-h3 {display: inline-block;
-color: #eeeeee;
-border: none;
-border-radius: 8px;
-padding: 13px 25px;
-background: #1565c0;}
-
-details 
-{color: #757575;
-padding: .5em .5em 0;}
-summary 
-{font-weight: bold;
-margin: -.5details {
-border: 1px solid #aaa;
-padding: .5em .5em 0;}
-summary 
-{font-weight: bold;
-margin: -.5em -.5em 0;
-padding: .5em;}
-details[open] 
-{padding: .5em;}
-details[open] summary 
-{border-bottom: 1px solid #aaa;
-margin-bottom: .5em;}
-em -.5em 0;
-padding: .5em;
-outline: none;
-}
-details[open] 
-{padding: .5em;
-outline: none}
-details[open] summary 
-{border-bottom: 1px solid #aaa;
-margin-bottom: .5em;
-outline: none;}
-
-.code1 {position: relative;
-display: block; 
-padding: 30px; 
-font-size: 16px; 
-border: 30px solid #eeeeee;
-line-height: 18px;
-width: 100%;
-border-radius: 40px;
-background: #323232;
-font-family: Courier new,monospace;
-text-align: left;
-color: #FFC107;
-overflow: scroll;
-font-weight: bold;}
-
-.code2 {position: relative;
-display: block; 
-padding: 25px; 
-font-size: 15px; 
-border: 30px solid #eeeeee;
-border-radius: 38px;
-line-height: 15px;
-width: 100%;
-background: #323232;
-font-family: Courier new,monospace;
-text-align: left;
-color: #FFC107;
-overflow: scroll;
-font-weight: bold;}
-
-.dailymotion {display: block;
-border-radius: 50%;
-margin: 0 0 0 15px}
-</style>
 
 </head>
 <body>
@@ -347,9 +255,6 @@ width="100%" height="100%" allowfullscreen allow="autoplay"&gt;
 
 <!------------------------------------------>
 
-<br><br>
-<br><br>
-<br><br>
 <br><br>
 <br><br>
 
