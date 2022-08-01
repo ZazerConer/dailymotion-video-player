@@ -35,9 +35,8 @@ loop: 1,
 </pre>
 
 <br>
-<hr>
-<br>
 
 **[See More](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ZazerConer/dailymotion-player.github.io/main/index.html)**
 
+<hr>
 <!----------------------------------------->
