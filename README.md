@@ -1,3 +1,7 @@
+<style>h1{color:dodgerblue;}</style>
+<style>h3{color:#ccc;}</style>
+<style>.code1{color:orange;}</style>
+
 <!------------------------------------------->
 
 <h1 style="color:#252525">Dailymotion Video Player</h1>
@@ -40,5 +44,4 @@ loop: 1,
 
 <hr>
 
-https://github.com/ZazerConer/dailymotion-video-player/blob/main/src/script.js
 <!----------------------------------------->
