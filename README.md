@@ -16,8 +16,8 @@
 &lt;script&gt;
 var player = DM.player(document.getElementById("player"), {
 video: "VideoID",
-width: "500",
-height: "315",
+width: "100%",
+height: "100%",
 params: {
 autoplay: false,
 mute: false,
