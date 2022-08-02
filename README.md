@@ -1,18 +1,14 @@
-<style>h1{color:dodgerblue;}</style>
-<style>h3{color:#ccc;}</style>
-<style>.code1{color:orange;}</style>
-
 <!------------------------------------------->
 
-<h1 style="color:#252525">Dailymotion Video Player</h1>
+<h1 style="color:dodgerblue">Dailymotion Video Player</h1>
 
 <!------------------------------------------->
 
 <br><br>
 
-<h3>Video Player with &lt;JavaScript&gt;</h3>
+<h3 style="color:#ccc">Video Player with &lt;JavaScript&gt;</h3>
 
-<pre class="code1">
+<pre style="color:orange" class="code1">
 &lt;div id="player"&gt;&lt;/div&gt;
 
 &lt;script src="https://api.dmcdn.net/all.js"&gt;&lt;/script&gt;
