@@ -2,6 +2,18 @@
 
 <h1 style="color:dodgerblue">Dailymotion Video Player</h1>
 
+**Video player usage....**
+
+- ```<script>```
+
+- ```<iframe>```
+
+- ```Embed video```
+
+- ```Embed player```
+
+- ```Embed iframe```
+
 <!------------------------------------------->
 
 <br><br>
