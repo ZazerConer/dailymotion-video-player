@@ -39,4 +39,6 @@ loop: 1,
 **[See More](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ZazerConer/dailymotion-video-player/main/index.html)**
 
 <hr>
+
+https://github.com/ZazerConer/dailymotion-video-player/blob/main/src/script.js
 <!----------------------------------------->
