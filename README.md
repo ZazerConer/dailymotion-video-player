@@ -8,12 +8,12 @@
 
 <h3 style="color:#ccc">Video Player with &lt;JavaScript&gt;</h3>
 
-<pre style="color:orange" class="code1">
-&lt;div id="player"&gt;&lt;/div&gt;
+```js script
+<div id="player"></div>
 
-&lt;script src="https://api.dmcdn.net/all.js"&gt;&lt;/script&gt;
+<script src="https://api.dmcdn.net/all.js"></script>
 
-&lt;script&gt;
+<script>
 var player = DM.player(document.getElementById("player"), {
 video: "VideoID",
 width: "100%",
@@ -31,8 +31,8 @@ loop: 1,
 "queue-enable": true
 }
 });
-&lt;/script&gt;
-</pre>
+</script>
+```
 
 <br>
 
