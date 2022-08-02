@@ -15,8 +15,8 @@
 - ```Embed iframe```
 
 <!------------------------------------------->
-
-<br><br>
+<hr>
+<br>
 
 <h3 style="color:#ccc">Video Player with &lt;JavaScript&gt;</h3>
 
