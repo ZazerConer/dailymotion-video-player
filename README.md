@@ -1,6 +1,4 @@
-<!------------------------------------------->
-
-<h1 style="color:dodgerblue">Dailymotion Video Player</h1>
+<h1 align="center">Dailymotion Video Player</h1>
 
 **Video player usage..**
 
@@ -18,7 +16,7 @@
 <hr>
 <br>
 
-<h3 style="color:#ccc">Video Player with &lt;JavaScript&gt;</h3>
+<h3 style="color:#ccc">Video Player with ```<JavaScript>```</h3>
 
 ```js script
 <div id="player"></div>
