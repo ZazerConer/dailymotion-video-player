@@ -16,7 +16,7 @@
 <hr>
 <br>
 
-<h3 style="color:#ccc">Video Player with <code><JavaScript></code></h3>
+### Video Player with ```<JavaScript>```
 
 ```js script
 <div id="player"></div>
