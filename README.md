@@ -12,11 +12,10 @@
 
 - ```Embed iframe```
 
-<!------------------------------------------->
 <hr>
 <br>
 
-### Video Player with ```<JavaScript>```
+### Video Player ```JavaScript```
 
 ```js script
 <div id="player"></div>
@@ -25,21 +24,21 @@
 
 <script>
 var player = DM.player(document.getElementById("player"), {
-video: "VideoID",
-width: "100%",
-height: "100%",
-params: {
-autoplay: false,
-mute: false,
-allowfullscreen: true,
-loop: 1,
-"queue-autoplay-next": false,
-"ui-highlight": "c90c0f",
-"sharing-enable": false,
-"ui-logo": false,
-"ui-start-screen-info": false,
-"queue-enable": true
-}
+  video: "VideoID",
+  width: "100%",
+  height: "100%",
+  params: {
+    autoplay: false,
+    mute: false,
+    allowfullscreen: true,
+    loop: 1,
+    "queue-autoplay-next": false,
+    "ui-highlight": "c90c0f",
+    "sharing-enable": false,
+    "ui-logo": false,
+    "ui-start-screen-info": false,
+    "queue-enable": true
+  }
 });
 </script>
 ```
