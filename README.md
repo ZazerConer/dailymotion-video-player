@@ -45,6 +45,6 @@ var player = DM.player(document.getElementById("player"), {
 
 <br>
 
-**[See More](zazerconer.github.io/dailymotion-video-player/src)**
+**[See More](https://zazerconer.github.io/dailymotion-video-player/src/)**
 
 <hr>
